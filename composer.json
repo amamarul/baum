@@ -19,18 +19,18 @@
   ],
   "require": {
     "php": ">=5.5.9",
-    "illuminate/console": "^5.2.0",
-    "illuminate/database": "^5.2.0",
-    "illuminate/events": "^5.2.0",
-    "illuminate/filesystem": "^5.2.0",
-    "illuminate/support": "^5.2.0"
+    "illuminate/console": "*",
+    "illuminate/database": "*",
+    "illuminate/events": "*",
+    "illuminate/filesystem": "*",
+    "illuminate/support": "*"
   },
   "require-dev": {
-    "phpunit/phpunit": "^4.0",
-    "mockery/mockery": "^0.9",
-    "d11wtq/boris": "^1.0.10",
-    "satooshi/php-coveralls": "^2.0",
-    "fabpot/php-cs-fixer": "^1.11"
+    "phpunit/phpunit": "*",
+    "mockery/mockery": "*",
+    "d11wtq/boris": "*",
+    "satooshi/php-coveralls": "*",
+    "fabpot/php-cs-fixer": "*"
   },
   "autoload": {
     "psr-0": {
